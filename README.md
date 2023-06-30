@@ -1,0 +1,2 @@
+# Music-Genre-Classifier_Code-Dataset
+This repository includes the dataset obtained from Kaggle, which served as the foundation for our classifier, along with the code implementation of our Random Forest and SVM classifiers. Additionally, it incorporates exploratory data analysis (EDA) of the dataset, providing insights into the characteristics of the data. The repository also outlines the rationale behind our data cleaning approaches, explaining the decisions made to preprocess the data before model development.
